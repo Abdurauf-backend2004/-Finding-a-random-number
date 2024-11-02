@@ -1,2 +1,2 @@
-# -Finding-a-random-number
+# Finding-a-random-number
 My first little creation.
